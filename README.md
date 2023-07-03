@@ -1,13 +1,13 @@
-A GNOME 42 plugin that adds a poweroff and a suspend button to the top bar.
+# Suspend Button (aka Tap to Sleep)
+   
+> A simple button on the far-right side of your top (or bottom) panel that suspends your device.
+   
+<img src="https://github.com/FaridZelli/gnome-shell-extension-tap-to-sleep/blob/master/tap-to-sleep.png" alt="" width="30%" align="right">
 
-![screenshot](Screenshot.png)
+## Installation
+1) Download the latest archive from [Releases](https://github.com/FaridZelli/gnome-shell-extension-tap-to-sleep/releases)
+2) Extract `tap-to-sleep@FaridZelli` to `~/.local/share/gnome-shell/extensions/`
+3) Logout of GNOME, then log back in and enable "Suspend Button" in GNOME extensions
 
-The poweroff button shows a dialog, the suspend button works immediately.
-
-# Usage
-
-Add this folder to `~/.local/share/gnome-shell/extensions/`
-
-Press `alt` + `f2`, type `r` and press `enter` to reload the GNOME desktop environment
-
-Run `gnome-extensions enable gnome-extension-poweroff-button@InkaAlicja`
+Note: This extension is a fork of Inka Sokołowska's [Power Buttons](https://github.com/InkaAlicja/gnome-extension-power-buttons).   
+Additionally, **Suspend Button** is compatible with touchscreens.
