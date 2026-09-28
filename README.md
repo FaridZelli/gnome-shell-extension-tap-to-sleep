@@ -1,8 +1,10 @@
 # Suspend Button (aka Tap to Sleep)
    
 > A simple button on the far-right side of your top (or bottom) panel that suspends your device.
-   
-<img src="https://github.com/FaridZelli/gnome-shell-extension-tap-to-sleep/blob/master/tap-to-sleep.png" alt="" width="30%" align="right">
+
+<br>
+
+<img src="tap-to-sleep.png" alt="" width="30%" align="center">
 
 ## Installation
 1) Download the latest archive from [Releases](https://github.com/FaridZelli/gnome-shell-extension-tap-to-sleep/releases)
